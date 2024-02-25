@@ -38,7 +38,7 @@ int choice;
 
         switch (choice)
         {
-        case 1:SUBTRACTION();
+        case 1:ADDITION();
             break;
         case 2:
             SUBTRACTION();
